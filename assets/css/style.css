@@ -1,7 +1,7 @@
-.body{    
-    font-family: "Raleway" sans-serif;
+body{    
+    font-family: "Raleway", sans-serif;
     color: white;
-    background-color: black;
+    background-color:black;
 }
 .navbar{
     background-color: transparent !important;
@@ -14,4 +14,70 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+h1{
+    font-family: "Raleway";
+    font-size: 30px;
+}
+
+/* quienes somos card */
+.card0{
+    background-color: black;
+}
+.card-body01{
+    background-color: #16a2b7;  
+    padding:0;
+}
+.card-link{
+    color: white;
+}
+.card-body02{
+    color:  white;
+    padding: 0;
+    margin: 0; 
+    text-align: left;
+}
+
+/* Destacados */
+.card-img-top{
+    height: 150px;
+}
+.card-text{
+    color: white;
+}
+.card-body05{
+    background-color: #16a2b7;
+    padding: 1;
+    height: auto;
+}
+.h5{
+    color: white;
+}
+.card-title{
+    color: white;
+}
+/* Contacto */
+
+
+/* Footer */
+.footer-page{
+    background-color: #16a2b7;
+}
+footer{
+    color: white;
+    font-family: "Raleway";
+    background-color: #16a2b7;
+    font-size: 50px
+}
+.btn{
+    color: #16a2b7;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    width: 40px;
+}
+.btn-primary{
+    background-color: #16a2b7;
+    color: white;
+    width: 60px;
 }
