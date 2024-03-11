@@ -1,2 +1,2 @@
-https://github.com/vapo134/Chile-viajes/pull/new/gh-pages
+https://vapo134.github.io/Chile-viajes
 # Chile-viajes
